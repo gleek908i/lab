@@ -10,13 +10,6 @@ from assets import create_ideal_jjy
 from assets import line_notify
 
 
-
-
-
-
-
-
-
 create = create_ideal_jjy.CreateIdealJJY()
 create.create_signal()
 print(create.ideal_signal)
