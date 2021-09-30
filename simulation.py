@@ -11,7 +11,6 @@ from assets import line_notify
 
 
 
-
 create = create_ideal_jjy.CreateIdealJJY()
 create.create_signal()
 print(create.ideal_signal)
@@ -20,6 +19,6 @@ print(create.ideal_signal)
 
 
 
-
-if __name__ == '__main__':
-    line_notify()
+#
+# if __name__ == '__main__':
+#     line_notify()
